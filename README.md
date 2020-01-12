@@ -9,7 +9,9 @@ Git_command!-branch
 
 4.git commit -m "branch commit"
 
+5.git push --set-upstream origin name_of_branch(for push to new branch)
 
+6.git branch (for checking current branch)
 
 
 

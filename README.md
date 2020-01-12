@@ -1,32 +1,14 @@
 
-Git_command!- 
+Git_command!-branch
 
-1. git clone<url><where to clone>
-   git cone url
+1.git checkout -b name (for creating a new branch)
 
-2.git log
+2.git checkout name (for switch to name branch)
 
-3.git status 
+3.git add . (to add current branch)
 
-4.git config --global user.name "shimucse"
+4.git commit -m "branch commit"
 
-5.git config --global user.email abisheema@gmail.com
-
-6.config --list
-
-7.git push origin master
-
-8.git branch calc-divide 
-
-9.git checkout -b name
-
-10.git diff remotes/origin/branch1
-
-11.git add.
-
-12.vim b.txt
-
-13.git branch -a 
 
 
 
